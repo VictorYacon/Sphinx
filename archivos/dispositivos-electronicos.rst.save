@@ -1,0 +1,17 @@
+DISPOSITIVOS
+============
+Los dispositivos electronicos utilizado diferentes a los sensores son los siguientes.
+
+Lcd
+---
+Es una pantalla plana basada en el uso de una sustancia liquida atrapada entre dos placas de vidrio, haciendo pasar por este una corriente eléctrica a una zona especifica, para que así esta se vuelva opaca, y además cuenta (generalmente) con iluminación trasera.
+
+**PINES**
+
+* El pin “RS”  a mostrar.
+* El pin de “lectura/escritura”(R/W) selecciona el modo de lectura o de escritura.
+* EL pin para habilitar “enable”, este habilita los registros.
+* 8 pines de datos “D00-D07”, Los estados de estos pines son bits que estás escribiendo en un registro, o valores que estás leyendo.
+* Existe un pin “de contraste” del display.
+* Existe un pin “de retro-iluminación” (Bklt+ y Bklt-) que le permiten controlar la retroiluminación.
+* Pin de alimentación (+5V y GND).
