@@ -1,15 +1,15 @@
 DESCRIPCION
 ===========
 
-PROBLEMA
+Problema
 --------
 ¿Cómo implementar un sistema que facilite y provea informacion al conductor sobre como se encuentra el vehiculo?
 
-OBJETIVO GENERAL
+Objetivo General
 ----------------
 Analizar y diseñar el vehiculo con el sistema adecuado para el conductor y asi evitar problemas durante la conduccion del vehiculo.
 
-DESCRIPCION
+Descripcion
 -----------
 El proyecto a realizar consiste en la elaboracion de un vehiculo GoKart que contendra lo siguiente:
 
