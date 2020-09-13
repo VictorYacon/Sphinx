@@ -1,8 +1,3 @@
-.. prueba documentation master file, created by
-   sphinx-quickstart on Sat Sep 12 15:58:57 2020.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
 ****************
 Proyecto Go-Kart
 ****************
@@ -22,3 +17,4 @@ Componentes del dispositivo
    md_files/parking
    md_files/revolution
    md_files/velocimeter
+
