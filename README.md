@@ -1,2 +1,0 @@
-# Sphinx
-Trabajo en conjunto
